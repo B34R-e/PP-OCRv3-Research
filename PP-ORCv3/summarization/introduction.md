@@ -2,6 +2,12 @@
 
 PP-OCRv3 is further upgraded on the basis of PP-OCRv2. Included of **text-detection model** _(DBNet)_ and **text-regconition model** _(CRNN in v2 is replaced to SVTR in v3)_.
 
+## PP-OCRv2 Framework
+
+!["ppocrv2_img"](../imgs/framework_pp_ocr_v2.jpg)
+
+## PP-OCRv3 Framework
+
 !["ppocrv3_img"](../imgs/ppocrv3_framework.png)
 
 In the pink box of the image above, there are some strategies that newly introduced in PP-OCRv3.
