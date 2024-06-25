@@ -4,7 +4,7 @@ The **PP-OCRv3** detection model upgrades the CML _(Collaborative Mutual Learnin
 
 > CML is a model that utilizes two student networks and a teacher network to learn a more robust text detector.
 
-![](../imgs/ppocrv3_det_cml.png)
+![](../../../imgs/ppocrv3_det_cml.png)
 
 The **PP-OCRv3** optimizes both _Teacher model_ and _Student model_.
 
